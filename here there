@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title> Curriculum Vitae </title>
+<meta charset="utf-8">
+<meta name="author" content="Vitor">
+<style>
+body{
+	background-color: #1A0444;
+}
+h1{
+	font-family: Arial;
+	color: white;
+}
+
+h2{
+	font-family: Arial;
+	color: white
+}
+p{
+	font-family: serif;
+	color: #C4C4C4;
+}
+li{
+	font-family: serif;
+	color: #C4C4C4;
+	text-decoration: underline;
+}
+a {
+	color: #C4C4C4;
+}
+.aqui{
+	color: yellow;
+	background: yellow
+}
+</style>
+</head>
+<body>
+<h1> Curriculum Vitae </h1>
+<hr>
+<p> <b> Nome: </b> Vitor Kayon de Lara Madruga</p>
+<p> <b> Objetivo: </b> Ir para a Angola </p>
+<hr>
+<h2> Qualificações </h2>
+<ul>
+<li> Eu amo comer </li>
+<li> Eu amo sair </li>
+<li> Come Lâmina </li>
+<li> Criar Pitbull e Tomar Óleo </li>
+</ul>
+<input>
+<br>
+<br>
+<button> class="aqui"><a href="https://www.instagram.com/casadosmotorescmc/" target ="_blank"> Perfil que eu cuido no Insta</a></button>
+</body>
+</html>
